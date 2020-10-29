@@ -1,5 +1,5 @@
-import Observer from "./Observer"
-import Subject from "./Subject"
+import Observer from "./_Observer"
+import Subject from "./_Subject"
 
 //  Classe Jornal que implementa o Subject, Fica responsável pela lógica de anexar,
 // desanexar e notificar cada um dos Observers.

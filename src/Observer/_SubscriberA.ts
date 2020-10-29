@@ -1,6 +1,6 @@
-import Jornal from "./Jornal";
-import Observer from "./Observer";
-import Subject from "./Subject";
+import Jornal from "./_Jornal";
+import Observer from "./_Observer";
+import Subject from "./_Subject";
 
 // Assinante A que possui sua própria lógica de update, ou seja, só ele sabe
 // o que deseja receber do subject que ele assinou.

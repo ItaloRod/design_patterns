@@ -1,6 +1,6 @@
-import Jornal from "./Jornal";
-import SubscriberA from "./SubscriberA";
-import SubscriberB from "./SubscriberB";
+import Jornal from "./_Jornal";
+import SubscriberA from "./_SubscriberA";
+import SubscriberB from "./_SubscriberB";
 
 const jornal = new Jornal();
 
