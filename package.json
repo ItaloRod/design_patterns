@@ -6,7 +6,8 @@
     "run-observer": "ts-node src/Observer/index.ts",
     "run-facade": "ts-node src/Facade/index.ts",
     "run-singleton": "ts-node src/Singleton/index.ts",
-    "run-factory-method": "ts-node src/Factory_Method/index.ts"
+    "run-factory-method": "ts-node src/Factory_Method/index.ts",
+    "run-strategy": "ts-node src/Strategy/index.ts"
   },
   "devDependencies": {
     "ts-node": "^9.0.0",
